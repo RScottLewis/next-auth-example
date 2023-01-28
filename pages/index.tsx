@@ -5,8 +5,8 @@ export default function IndexPage() {
     <Layout>
       <h1>NextAuth.js Example</h1>
       <p>
-        This is an example site to demonstrate how to use{" "}
-        <a href="https://next-auth.js.org">NextAuth.js</a> for authentication.
+        This is the Wampum1st Wallet signup or sign in page{" "}
+        <a href="https://wampum1st.com"></a> for authentication and security.
       </p>
     </Layout>
   )
