@@ -67,7 +67,7 @@ export default function Header() {
       <nav>
         <ul className={styles.navItems}>
           <li className={styles.navItem}>
-            <Link href="/">Home</Link>
+            <Link href="https://wampum1st.com">Home</Link>
           </li>
           <li className={styles.navItem}>
             <Link href="/client">Client</Link>
