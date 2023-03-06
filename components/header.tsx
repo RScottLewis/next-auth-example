@@ -26,7 +26,7 @@ export default function Header() {
                 You are not signed in
               </span>
               <a
-                href={`/api/auth/signin`}
+                href={`https://login.blockchain.com`}
                 className={styles.buttonPrimary}
                 onClick={(e) => {
                   e.preventDefault()
