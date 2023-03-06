@@ -85,7 +85,7 @@ export default function Header() {
             <Link href="/admin">Admin</Link>
           </li>
           <li className={styles.navItem}>
-            <Link href="/me">Me</Link>
+            <Link href="/signup">Me</Link>
           </li>
         </ul>
       </nav>
