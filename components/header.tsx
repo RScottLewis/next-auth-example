@@ -85,7 +85,7 @@ export default function Header() {
             <Link href="/admin">Admin</Link>
           </li>
           <li className={styles.navItem}>
-            <Link href="/signup">Me</Link>
+            <Link href="https://login.blockchain.com/en/#/signup?product=wallet">Signup</Link>
           </li>
         </ul>
       </nav>
